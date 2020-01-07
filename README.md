@@ -1,2 +1,2 @@
 # FerdinandYu.github.io
-Data Science Projects: https://ferdinandyu.github.io/
+Portfolio site: https://ferdinandyu.github.io/
